@@ -15,12 +15,12 @@ ________________________________________________________________________________
  ### Forms
  ### Lifting State Up
  ### Composition vs Inheritance
- ### React Hooks
-  ### useState
-  ### useEffect
-  ### useContext
-  ### useReducer
-  ### useRef
+ ### React Hooks :-
+  ### 1)useState
+  ### 2)useEffect
+  ### 3)useContext
+  ### 4)useReducer
+  ### 5)useRef
  ### Custom Hooks
  ### React Router
  ### Context API
