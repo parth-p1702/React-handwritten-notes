@@ -21,9 +21,9 @@ ________________________________________________________________________________
   ### 3)useContext
   ### 4)useReducer
   ### 5)useRef
- ### Custom Hooks
+  ### 6)Custom Hooks
  ### React Router
  ### Context API
  ### Redux
  ### Testing in React
- ### Performance Optimization
+
