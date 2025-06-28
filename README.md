@@ -24,6 +24,6 @@ ________________________________________________________________________________
   ### 6)Custom Hooks
  ### React Router
  ### Context API
- ### Redux
- ### Testing in React
+ ### Fetch API
+ 
 
